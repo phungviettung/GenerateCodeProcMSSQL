@@ -1,0 +1,14 @@
+{
+  "name": "generatecodeprocmssql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tungpv",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^6.3.0"
+  }
+}
