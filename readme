@@ -1,0 +1,6 @@
+- Cài node
+- Vào folder vừa clone và sửa cấu hình kết nối MMSQL trong proc.js (connect function)
+Sau đó gõ lệnh
++ npm install
++ node proc
+=> file .txt chứ procedure
